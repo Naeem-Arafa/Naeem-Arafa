@@ -151,17 +151,15 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Naeem-Arafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naeem-Arafa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Arafa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Naeem-Arafa" height="230px"/>
-<br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Naeem-Arafa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Naeem-Arafa&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Naeem-Arafa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Naeem-Arafa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="192px"/></a>
+  <br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 </details>
-
+  
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
@@ -170,7 +168,7 @@
  
 </details>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Arafa&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Naeem-Arafa&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=Naeem-Arafa&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Naeem-Arafa&style=for-the-badge">
